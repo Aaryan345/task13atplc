@@ -5,6 +5,6 @@ function addAndCapitalizeStrings(str1, str2) {
 
 // Example usage
 var string1 = "Hello";
-var string2 = "World";
+var string2 = "motihari";
 var combinedStrings = addAndCapitalizeStrings(string1, string2);
 console.log(combinedStrings);
